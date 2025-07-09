@@ -20,11 +20,8 @@ header {
   text-decoration: none;
   border-radius: 5px;
 }
-.gallery img {
-  width: 90%;
-  max-width: 300px;
-  margin: 10px;
-  border: 2px solid gold;
+.gallery {
+  margin-top: 20px;
 }
 .booking input, .booking textarea {
   width: 80%;
