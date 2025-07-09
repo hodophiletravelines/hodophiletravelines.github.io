@@ -23,6 +23,15 @@ header {
 .gallery {
   margin-top: 20px;
 }
+.vehicle-list {
+  list-style: none;
+  padding: 0;
+  margin: 10px 0;
+}
+.vehicle-list li {
+  font-size: 18px;
+  margin: 5px 0;
+}
 .booking input, .booking textarea {
   width: 80%;
   max-width: 400px;
